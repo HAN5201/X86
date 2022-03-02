@@ -22,7 +22,6 @@ echo 'src-git vernesong https://github.com/vernesong/OpenClash' >>feeds.conf.def
 echo 'src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git destan https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
 echo 'src-git xiaoqingfengATGH https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom' >>feeds.conf.default
-echo 'src-git apollo https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
 echo 'src-git ysoyipek https://github.com/ysoyipek/luci-theme-netgear' >>feeds.conf.default
-echo 'src-git rosywrt https://github.com/rosywrt/luci-theme-rosy' >>feeds.conf.default
+
 

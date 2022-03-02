@@ -26,6 +26,4 @@ echo 'src-git xiaoqingfengATGH https://github.com/xiaoqingfengATGH/luci-theme-in
 echo 'src-git apollo https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
 echo 'src-git ysoyipek https://github.com/ysoyipek/luci-theme-netgear' >>feeds.conf.default
 echo 'src-git rosywrt https://github.com/rosywrt/luci-theme-rosy' >>feeds.conf.default
-echo 'src-git dailybonus https://github.com/jerrykuku/luci-app-jd-dailybonus' >>feeds.conf.default
-echo 'src-git webdav https://github.com/jerrykuku/go-aliyundrive-webdav' >>feeds.conf.default
-echo 'src-git jerrykuku https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav' >>feeds.conf.default
+

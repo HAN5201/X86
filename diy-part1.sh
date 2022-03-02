@@ -20,7 +20,6 @@ echo 'src-git sirpdboy https://github.com/sirpdboy/sirpdboy-package' >>feeds.con
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git vernesong https://github.com/vernesong/OpenClash' >>feeds.conf.default
 echo 'src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git tty228 https://github.com/tty228/luci-app-serverchan' >>feeds.conf.default
 echo 'src-git destan https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
 echo 'src-git xiaoqingfengATGH https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom' >>feeds.conf.default
 echo 'src-git apollo https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
